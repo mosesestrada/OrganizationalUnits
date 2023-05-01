@@ -66,12 +66,12 @@ Enter the name of the OU to be created. For this demo we will be nesting the fol
 <img src="https://i.imgur.com/6PSXVB0.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-And that's it we are finished. This is what our result looks like
+And that's it we are finished. This is what our result looks like:
  <br/>
 <img src="https://i.imgur.com/on0ltiK.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-Hope you enjoyed this demonstration. <br/>
+Hope you enjoyed my demonstration. <br/>
 <img src="https://i.imgur.com/MsVOmTw.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
