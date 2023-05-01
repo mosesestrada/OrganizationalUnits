@@ -72,7 +72,7 @@ And that's it we are finished. This is what our result looks like:
 <br />
 <br />
 Hope you enjoyed my demonstration. <br/>
-<img src="https://i.imgur.com/S2EB4Gg.jpg" height="50%" width="50%" alt="Create OU's"/>
+<img src="https://i.imgur.com/IfujW7p.jpg" height="60%" width="60%" alt="Create OU's"/>
 <br />
 <br />
 
