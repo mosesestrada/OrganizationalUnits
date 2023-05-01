@@ -27,56 +27,52 @@ From the left pane of Hyper-V Manager, select CORPSERVER. From the Virtual Machi
 
 
 <br/>
-<img src="https://i.imgur.com/jLl9Z4k.png" height="80%" width="80%" alt="OUs"/>
+<img src="https://i.imgur.com/jLl9Z4k.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 From Server Manager's menu bar, select Tools then select Active Directory Users and Computers.
 Select Next.
  <br/>
-<img src="https://i.imgur.com/xipIW1F.png" height="80%" width="80%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/xipIW1F.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 From the left pane, right-click CorpNet.xyz and then select New then Organizational Unit.
  <br/>
-<img src="https://i.imgur.com/7hUq1U7.png" height="80%" width="80%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/7hUq1U7.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 Enter the name of the OU to be created.
 
  <br/>
-<img src="https://i.imgur.com/iw6j2za.png" height="80%" width="80%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/iw6j2za.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-Select Yes to convert the disks to dynamic disks. <br/>
-<img src="https://i.imgur.com/WXsNO5v.png" height="80%" width="80%" alt="Create Raid Array"/>
+Repeat those steps until you've inserted all your OU's. For this demo I've added the following OU's: Accounting,
+Admins, Marketing, Research-Dev, Servers Support, Workstations, & Sales.
+<br/>
+<img src="https://i.imgur.com/ZFwlWZL.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-Right-click Disk 3 and select New Mirrored Volume.
-Select Next.
+From the left pane, select CorpNet.xyz and highlight Sales.
+From the menu bar, select the Create a new organizational unit in the current container icon.
+
  <br/>
-<img src="https://i.imgur.com/K9IIE18.png" height="80%" width="80%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/tGmjcOi.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-Under Available, select Disk 4. Select Add. Then select next
+Enter the name of the OU to be created. For this demo we will be nesting the following OU's within the Sales OU: SalesManagers & TempSales.
+
  <br/>
-<img src="https://i.imgur.com/ZIzjMdW.png" height="80%" width="80%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/6PSXVB0.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-Use the Assign the following drive letter drop-down list to select M.
-Select Next.
-Make sure NTFS is selected as the file system.
-Use Media as the Volume label; then select Next.
-Select Finish.
+And that's it we are finished. This is what our result looks like
  <br/>
-<img src="https://i.imgur.com/oOWAQXr.png" height="80%" width="80%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/on0ltiK.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-Select Yes to convert the disks to dynamic disks. Your final result should look like this <br/>
-<img src="https://i.imgur.com/MsVOmTw.png" height="80%" width="80%" alt="Create Raid Array"/>
-<br />
-<br />
-That's it! <br/>
-<img src="https://i.imgur.com/uhKlKpv.jpg"  alt="Create Raid Array"/>
+Hope you enjoyed this demonstration. <br/>
+<img src="https://i.imgur.com/MsVOmTw.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 
