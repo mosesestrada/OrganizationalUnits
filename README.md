@@ -22,32 +22,29 @@ Get ready to unlock the full potential of your domain with the incredible organi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Right-click Start and select Disk Management.
-Select GPT as the partition style.
-Select OK to initialize all disks.
+For this demonstration we already have our virtual machines and domain controller set up. 
+From the left pane of Hyper-V Manager, select CORPSERVER. From the Virtual Machines pane, right-click CorpDC and then select Connect.
+
+
 <br/>
-<img src="https://i.imgur.com/OcMGkdW.png" height="80%" width="80%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/jLl9Z4k.png" height="80%" width="80%" alt="OUs"/>
 <br />
 <br />
-Right-click Disk 1 and select New Striped Volume.
+From Server Manager's menu bar, select Tools then select Active Directory Users and Computers.
 Select Next.
  <br/>
-<img src="https://i.imgur.com/2eQuXo3.png" height="80%" width="80%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/xipIW1F.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
-Under Available, select Disk 2 then select Add. Select Next.
+From the left pane, right-click CorpNet.xyz and then select New then Organizational Unit.
  <br/>
-<img src="https://i.imgur.com/QTzQw3i.png" height="80%" width="80%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/7hUq1U7.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
-Use the Assign the following drive letter drop-down list to select E.
-Select Next.
-Make sure NTFS is selected as the file system.
-Use Editing as the Volume label.
-Select Next.
-Select Finish.
+Enter the name of the OU to be created.
+
  <br/>
-<img src="https://i.imgur.com/bSLAXfj.png" height="80%" width="80%" alt="Create Raid Array"/>
+<img src="https://i.imgur.com/iw6j2za.png" height="80%" width="80%" alt="Create Raid Array"/>
 <br />
 <br />
 Select Yes to convert the disks to dynamic disks. <br/>
