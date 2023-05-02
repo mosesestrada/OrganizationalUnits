@@ -16,9 +16,8 @@ Get ready to unlock the full potential of your domain with the incredible organi
 <br />
 
 <h2>Environments Used </h2>
-
- <b>Microsoft Server 2016</b> 
-
+ <b>Windows Server 2019 </b> <p>
+ <b>Hyper-V</b></p>
 <h2>Program walk-through:</h2>
 
 <p align="center">
