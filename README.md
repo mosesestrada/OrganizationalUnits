@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/d6K0zpl.jpg" height="60%" width="60%" alt="Raid Array logo"/>
+ <img src="https://i.imgur.com/d6K0zpl.jpg" height="80%" width="80%" alt="Raid Array logo"/>
 </p>
 
 <h1>Creating Organizational Units</h1>
@@ -71,7 +71,7 @@ And that's it we are finished. This is what our result looks like:
 <br />
 <br />
 Hope you enjoyed my demonstration. <br/>
-<img src="https://i.imgur.com/Ow3Mrgj.jpg" height="60%" width="60%" alt="Create OU's"/>
+<img src="https://i.imgur.com/Ow3Mrgj.jpg" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
 
