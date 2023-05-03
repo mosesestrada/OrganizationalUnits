@@ -21,7 +21,7 @@ Get ready to unlock the full potential of your domain with the incredible organi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-From the left pane of Hyper-V Manager, select your host which in this demonstration is "CORPSERVER". From the Virtual Machines pane, right-click your domain controller, which in this example is "CorpDC" and then select Connect.
+From the left pane of Hyper-V Manager, select your host  server which in this demonstration is "CORPSERVER". From the Virtual Machines pane, right-click your domain controller, which in this example is "CorpDC" and then select Connect.
 
 
 <br/>
