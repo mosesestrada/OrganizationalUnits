@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/d6K0zpl.jpg" height="80%" width="80%" alt="Raid Array logo"/>
 </p>
 
-<h1>Creating Organizational Units</h1>
+<h1>Creating Organizational Units </h1>
 
 
 <h2>Description</h2>
