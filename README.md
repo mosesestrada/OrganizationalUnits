@@ -21,20 +21,13 @@ Get ready to unlock the full potential of your domain with the incredible organi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-From the left pane of Hyper-V Manager, select your Hyper-V host server which in this demonstration is "CORPSERVER". From the Virtual Machines pane, right-click your domain controller, which in this example is "CorpDC" and then select Connect.
-
-
-<br/>
-<img src="https://i.imgur.com/jLl9Z4k.png" height="80%" width="80%" alt="Create OU's"/>
-<br />
-<br />
 From Server Manager's menu bar, select Tools then select Active Directory Users and Computers.
 Select Next.
  <br/>
 <img src="https://i.imgur.com/xipIW1F.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
 <br />
-From the left pane, right-click CorpNet.xyz and then select New then Organizational Unit.
+From the left pane, right-click your domain, in this example my domain is "CorpNet.xyz" > select New > then Organizational Unit.
  <br/>
 <img src="https://i.imgur.com/7hUq1U7.png" height="80%" width="80%" alt="Create OU's"/>
 <br />
