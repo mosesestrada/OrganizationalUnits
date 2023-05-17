@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/3MHRIva.jpg" height="80%" width="80%" alt="ou logo"/>
+ <img src="https://i.imgur.com/InR8eFj.jpg" height="80%" width="80%" alt="ou logo"/>
 </p>
 
 <h1>Creating Organizational Units </h1>
